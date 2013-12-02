@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384113172 source:c:\users\user\desktop\progra ii\ii parcial\prueba3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

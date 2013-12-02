@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385010618 source:c:\users\user\desktop\progra ii\ii parcial\pro5\main.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+
